@@ -1,0 +1,38 @@
+{
+    "uuids": {
+        "phone_id": "",
+        "uuid": "",
+        "client_session_id": "",
+        "advertising_id": "",
+        "android_device_id": "",
+        "request_id": "",
+        "tray_session_id": ""
+    },
+    "mid": "",
+    "ig_u_rur": null,
+    "ig_www_claim": null,
+    "authorization_data": {
+        "ds_user_id": "",
+        "sessionid": ""
+    },
+    "cookies": {},
+    "last_login": 0,
+    "device_settings": {
+        "android_version": 26,
+        "android_release": "",
+        "dpi": "",
+        "resolution": "",
+        "manufacturer": "",
+        "device": "",
+        "model": " ",
+        "cpu": "",
+        "app_version": "",
+        "version_code": "",
+        "bloks_versioning_id": ""
+    },
+    "user_agent": "",
+    "country": "",
+    "country_code": 1,
+    "locale": "",
+    "timezone_offset": -14400
+}
